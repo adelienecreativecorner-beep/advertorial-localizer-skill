@@ -1,0 +1,5 @@
+# dependencies — reinstalled per machine (sharp has native binaries)
+scripts/node_modules/
+# one-off job scripts
+scripts/_*.ts
+.DS_Store

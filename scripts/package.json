@@ -1,0 +1,12 @@
+{
+  "name": "advertorial-localizer-skill-scripts",
+  "private": true,
+  "type": "module",
+  "description": "Deterministic scripts for the advertorial-localizer skill (no API calls).",
+  "dependencies": {
+    "cheerio": "^1.1.2",
+    "postcss": "^8.4.49",
+    "rtlcss": "^4.3.0",
+    "sharp": "^0.34.5"
+  }
+}
